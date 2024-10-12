@@ -1,8 +1,8 @@
 # Blum-Tool
 automation blum airdrop
 # Download Here
-https://drive.google.com/file/d/1eEj9v4E5XzhPuMSro9zPov_mvWQd1pW3/view?usp=sharing
-+ Auto play game,
+https://drive.google.com/file/d/1MGYsD9nQbXtjiAb86mekNzdJ-lV6zd0e/view?usp=sharing
++ Auto play game(claim all dogs),
 + Auto claim
 + Auto do all task
 + Auto claim daily
