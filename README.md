@@ -1,6 +1,5 @@
 # Blum-Tool
 
-
 automation blum airdrop new version
 
 # Demo
