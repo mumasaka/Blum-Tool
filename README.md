@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=frqQ1hx9hew
 
 # Download Here
 
-https://drive.google.com/file/d/1XISRwWupFPg7vAa9AOShIt1VvbYwItru/view?usp=sharing
+https://drive.google.com/file/d/1uFLitQVet36pnCSty4etiMTPhQNv_MCW/view?usp=drive_link
 
 + Auto play game
 + Auto claim
