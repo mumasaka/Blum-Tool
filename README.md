@@ -3,7 +3,7 @@
 g6se1623swp391@gmail.com
 
 # Blum-Tool
-
+update v2
 automation blum airdrop new version
 
 # Demo
