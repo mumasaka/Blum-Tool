@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=frqQ1hx9hew
 
 https://drive.google.com/file/d/1XISRwWupFPg7vAa9AOShIt1VvbYwItru/view?usp=sharing
 
-+ Auto play game(claim all dogs),
++ Auto play game
 + Auto claim
 + Auto do all task
 + Auto claim daily
