@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=frqQ1hx9hew
 
 https://drive.google.com/file/d/1MGYsD9nQbXtjiAb86mekNzdJ-lV6zd0e/view?usp=sharing
 
-+ Auto play game(Noel)
++ Auto play game
 + Auto claim
 + Auto do all task
 + Auto claim daily
